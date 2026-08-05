@@ -7,8 +7,8 @@ export default defineConfig({
     },
   },
 
-  // Force Cloudflare/Nitro support
+  // Generate Vercel Build Output API files for this SSR application.
   nitro: {
-    preset: "cloudflare_module",
+    preset: "vercel",
   },
 });
