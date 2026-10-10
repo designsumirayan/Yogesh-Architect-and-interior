@@ -98,7 +98,7 @@ export function Footer() {
             <ul className="space-y-3 text-sm text-white/80">
               <li className="flex gap-3">
                 <MapPin className="h-4 w-4 shrink-0 mt-0.5 text-primary-bright" />
-                <span>9/284, Opp. Central Bank of India, <br />CDRI Chowk, Jankipuram Extension, Lucknow</span>
+                <span>9/283, Opp. Central Bank of India, <br />CDRI Chowk, Jankipuram Extension, Lucknow</span>
               </li>
               <li className="flex gap-3">
                 <Phone className="h-4 w-4 shrink-0 mt-0.5 text-primary-bright" />
