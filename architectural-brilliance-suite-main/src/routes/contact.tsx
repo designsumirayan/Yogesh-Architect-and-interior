@@ -74,7 +74,7 @@ function ContactPage() {
                     <span className="grid h-10 w-10 place-items-center rounded-full bg-white/10 ring-1 ring-white/20"><MapPin className="h-4 w-4" /></span>
                     <div className="text-sm">
                       <div className="text-xs uppercase tracking-widest text-white/60">Address</div>
-                      <div className="mt-1">9/284, Opp. Central Bank of India,<br />CDRI Chowk, Jankipuram Extention, Lucknow</div>
+                      <div className="mt-1">9/283, Opp. Central Bank of India,<br />CDRI Chowk, Jankipuram Extention, Lucknow</div>
                     </div>
                   </li>
                   <li className="flex gap-4">
